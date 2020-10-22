@@ -1,0 +1,24 @@
+body{
+  background-image: url(../img/mainpage_space_1.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.illust_1{
+  position: absolute;
+  right: 570px;
+  top: 340px;
+  size: 90%
+}
+
+.star_3{
+  position: absolute;
+  right: 100px;
+  top: 580px;
+}
+
+.star_2{
+  position: absolute;
+  right: 345px;
+  top: 895px;
+}
