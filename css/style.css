@@ -2,23 +2,75 @@ body{
   background-image: url(../img/mainpage_space_1.png);
   background-repeat: no-repeat;
   background-position: right top;
+  background-size: 55%;
 }
 
 .illust_1{
   position: absolute;
-  right: 570px;
+  right: 600px;
   top: 340px;
-  size: 90%
+  size: 80%
 }
 
 .star_3{
   position: absolute;
-  right: 100px;
+  right: 200px;
   top: 580px;
+  size: 75%
 }
 
 .star_2{
   position: absolute;
   right: 345px;
   top: 895px;
+  size: 80%
+}
+
+.portfolio{
+  font-family: Helvetica;
+  position: absolute;
+  left: 200px;
+  top: 280px;
+}
+
+.designer{
+    font-family: Helvetica;
+    font-weight: bold;
+    position: absolute;
+    left: 200px;
+    top: 370px;
+    font-size: 50px;
+}
+
+.name{
+   font-family: Helvetica;
+   font-weight: lighter;
+   position: absolute;
+   left: 200px;
+   top: 410px;
+   font-size: 120px;
+}
+
+.UXUI{
+   font-family: Helvetica;
+   position: absolute;
+   left: 200px;
+   top: 625px;
+   font-size: 24px;
+}
+
+.web{
+   font-family: Helvetica;
+   position: absolute;
+   left: 380px;
+   top: 625px;
+   font-size: 24px;
+}
+
+.etc{
+   font-family: Helvetica;
+   position: absolute;
+   left: 570px;
+   top: 625px;
+   font-size: 24px;
 }
