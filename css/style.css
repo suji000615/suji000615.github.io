@@ -2,7 +2,7 @@ body{
   background-image: url(../img/mainpage_space_1.png);
   background-repeat: no-repeat;
   background-position: right top;
-  background-size: 55%;
+  background-size: 58%;
 }
 
 .illust_1 img{
@@ -58,21 +58,21 @@ body{
 .portfolio img{
   font-family: Helvetica;
   position: absolute;
-  left: 200px;
+  left: 220px;
   top: 240px;
 }
 
 .designer img{
 
     position: absolute;
-    left: 200px;
+    left: 220px;
     top: 330px;
     font-size: 50px;
 }
 
 .name img{
    position: absolute;
-   left: 200px;
+   left: 220px;
    top: 390px;
    font-size: 120px;
 }
@@ -80,7 +80,7 @@ body{
 .UXUI img{
 
    position: absolute;
-   left: 200px;
+   left: 220px;
    top: 585px;
    font-size: 24px;
 
@@ -88,7 +88,7 @@ body{
 
 .web img{
    position: absolute;
-   left: 380px;
+   left: 400px;
    top: 585px;
    font-size: 24px;
 
@@ -96,7 +96,7 @@ body{
 
 .etc img{
    position: absolute;
-   left: 570px;
+   left: 590px;
    top: 585px;
    font-size: 24px;
 
