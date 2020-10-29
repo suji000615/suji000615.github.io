@@ -101,3 +101,25 @@ body{
    font-size: 24px;
 
 }
+
+.star_4 img{
+ position: absolute;
+ top: 1440px;
+}
+
+.star_5 img{
+ position: absolute;
+ top: 2840px;
+ left: 900px;
+}
+
+.illust_2 img{
+  position: absolute;
+  top: 3890px;
+  left: 310px;
+}
+section{
+  background-image: url(../img/mainpage_space_2.png);
+  background-repeat: no-repeat;
+
+}
