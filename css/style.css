@@ -5,72 +5,70 @@ body{
   background-size: 55%;
 }
 
-.illust_1{
+.illust_1 img{
   position: absolute;
-  right: 600px;
-  top: 340px;
-  size: 80%
+  right: 560px;
+  top: 300px;
+  width: 450px;
 }
 
-.star_3{
+.star_3 img{
   position: absolute;
   right: 200px;
-  top: 580px;
-  size: 75%
+  top: 550px;
+  width: 150px;
 }
 
-.star_2{
+.star_2 img{
   position: absolute;
   right: 345px;
-  top: 895px;
-  size: 80%
+  top: 800px;
+  width: 30px;
 }
 
-.portfolio{
+.portfolio img{
   font-family: Helvetica;
   position: absolute;
   left: 200px;
-  top: 280px;
+  top: 240px;
 }
 
-.designer{
-    font-family: Helvetica;
-    font-weight: bold;
+.designer img{
+
     position: absolute;
     left: 200px;
-    top: 370px;
+    top: 330px;
     font-size: 50px;
 }
 
-.name{
-   font-family: Helvetica;
-   font-weight: lighter;
+.name img{
    position: absolute;
    left: 200px;
-   top: 410px;
+   top: 390px;
    font-size: 120px;
 }
 
-.UXUI{
-   font-family: Helvetica;
+.UXUI img{
+
    position: absolute;
    left: 200px;
-   top: 625px;
+   top: 585px;
    font-size: 24px;
+
 }
 
-.web{
-   font-family: Helvetica;
+.web img{
    position: absolute;
    left: 380px;
-   top: 625px;
+   top: 585px;
    font-size: 24px;
+
 }
 
-.etc{
-   font-family: Helvetica;
+.etc img{
    position: absolute;
    left: 570px;
-   top: 625px;
+   top: 585px;
    font-size: 24px;
+
 }
