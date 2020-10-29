@@ -26,6 +26,35 @@ body{
   width: 30px;
 }
 
+.menu img{
+  position: absolute;
+  right: 95px;
+  top: 50px;
+  width: 45px;
+}
+
+.mail img{
+  position: absolute;
+  right: 100px;
+  top: 160px;
+  width: 35px;
+  opacity: 80%;
+}
+
+.twitter img{
+  position: absolute;
+  right: 100px;
+  top: 220px;
+  opacity: 80%;
+}
+
+.instargram img{
+  position: absolute;
+  right: 100px;
+  top: 280px;
+ opacity: 80%;
+}
+
 .portfolio img{
   font-family: Helvetica;
   position: absolute;
