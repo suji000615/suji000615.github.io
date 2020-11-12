@@ -1,125 +1,108 @@
-body{
+body {
   background-image: url(../img/mainpage_space_1.png);
   background-repeat: no-repeat;
   background-position: right top;
-  background-size: 58%;
+  background-size: 60%;
 }
 
-.illust_1 img{
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1035px;;
+  }
+}
+
+.container{
+  margin-left: 250px;
+}
+
+
+.header {
+  position: relative;
+}
+
+.header .menu {
+  text-align: right;
+}
+
+.header .star_2 {
   position: absolute;
-  right: 560px;
+  top : 850px;
+  right : 200px;
+  width: 100px;
+}
+
+
+.header .star_3 {
+  position: absolute;
+  top : 600px;
+  right : 100px;
+}
+
+.header .illust_1 {
+  position: absolute;
+  right: 550px;
   top: 300px;
-  width: 450px;
+  width : 450px
 }
 
-.star_3 img{
-  position: absolute;
-  right: 200px;
-  top: 550px;
-  width: 150px;
-}
-
-.star_2 img{
-  position: absolute;
-  right: 345px;
-  top: 800px;
-  width: 30px;
-}
-
-.menu img{
-  position: absolute;
-  right: 95px;
-  top: 50px;
-  width: 45px;
-}
-
-.mail img{
-  position: absolute;
-  right: 100px;
-  top: 160px;
-  width: 35px;
-  opacity: 80%;
-}
-
-.twitter img{
-  position: absolute;
-  right: 100px;
-  top: 220px;
-  opacity: 80%;
-}
-
-.instargram img{
-  position: absolute;
-  right: 100px;
-  top: 280px;
- opacity: 80%;
-}
-
-.portfolio img{
-  font-family: Helvetica;
-  position: absolute;
-  left: 220px;
-  top: 240px;
-}
-
-.designer img{
-
-    position: absolute;
-    left: 220px;
-    top: 330px;
-    font-size: 50px;
-}
-
-.name img{
-   position: absolute;
-   left: 220px;
-   top: 390px;
-   font-size: 120px;
-}
-
-.UXUI img{
-
-   position: absolute;
-   left: 220px;
-   top: 585px;
-   font-size: 24px;
-
-}
-
-.web img{
-   position: absolute;
-   left: 400px;
-   top: 585px;
-   font-size: 24px;
-
-}
-
-.etc img{
-   position: absolute;
-   left: 590px;
-   top: 585px;
-   font-size: 24px;
-
-}
-
-.star_4 img{
- position: absolute;
- top: 1440px;
-}
-
-.star_5 img{
- position: absolute;
- top: 2840px;
- left: 900px;
-}
-
-.illust_2 img{
-  position: absolute;
-  top: 3890px;
-  left: 310px;
-}
-section{
+.bottom {
   background-image: url(../img/mainpage_space_2.png);
   background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 100%;
+  position: relative;
+  height:1100px;
+}
 
+.bottom .illust_2 {
+  position: absolute;
+  bottom:0;
+  left: 50%;
+  right :auto;
+  top :auto;
+  margin-left: -660px
+}
+
+.container .mb-5{
+  margin-top: 150px;
+}
+
+
+.nav{
+ margin-top: 100px;
+}
+
+
+.star_4{
+  position: absolute;
+  left: -150px;
+  opacity: 40%;
+  top: 1600px;
+  width: 300px;
+}
+
+.star_5{
+  position: absolute;
+  left: 100px;
+  opacity: 40%;
+  top: 2500px;
+}
+
+.main{
+  min-height: 2000px;
+  margin-top: 460px;
+}
+
+.container .text_1{
+  width: 1000px;
+}
+
+.container .text_2{
+  margin-top: 200px;
+  width: 1200px;
+}
+
+section {
+  background-image: url(../img/mainpage_space_2.png);
+  background-repeat: no-repeat;
 }
